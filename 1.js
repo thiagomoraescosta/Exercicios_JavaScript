@@ -32,3 +32,5 @@ let pessoa = {
 
 console.log(pessoa.idade)
 
+//
+
